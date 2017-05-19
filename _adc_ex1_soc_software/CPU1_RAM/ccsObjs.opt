@@ -1,0 +1,1 @@
+"./adc_ex1_soc_software.obj" "./device/device.obj" "./device/driverlib/sci.obj" "../2837xD_RAM_lnk_cpu1.cmd" "../driverlib.lib" "../device/driverlib/ccs/Debug/driverlib.lib" -llibc.a 

@@ -1,0 +1,1 @@
+"./ELT131_LAB_07_01.obj" "./bsp/F2837xD_Adc.obj" "./bsp/F2837xD_CodeStartBranch.obj" "./bsp/F2837xD_CpuTimers.obj" "./bsp/F2837xD_GlobalVariableDefs.obj" "./bsp/F2837xD_PieCtrl.obj" "./bsp/F2837xD_SysCtrl.obj" "./bsp/F2837xD_usDelay.obj" "../2837x_FLASH_lnk_cpu1.cmd" "../linker/DSP2833x_Headers_BIOS.cmd" "../linker/TMS320F28335.cmd" -l"configPkg/linker.cmd" -llibc.a -llibc.a 
